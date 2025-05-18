@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=300&section=header&text=Hojin's%20github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=89f7fe,66a6ff&height=300&section=header&text=Hojin's%20github&fontColor=ffffff)
 <!--
 **hojin0729/hojin0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
